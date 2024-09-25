@@ -1,0 +1,5 @@
+user_input1 = input("Enter A Name:\n")
+user_input2 = input("Enter A Place:\n")
+user_input3 = input("Enter A Item:\n")
+user_input4 = input("Enter A Activity:\n")
+print(" I went to the " + user_input2 + " With " + user_input1 + " And got a " + user_input3 + " so we could " + user_input4 + ".")

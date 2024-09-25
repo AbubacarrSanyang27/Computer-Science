@@ -1,3 +1,6 @@
 user_input = input("Whats your favorite Animal: ")
-user_input2 = input("Whats sound do " + user_input + " make: ")
-user_input3 = input("Where do " + user_input + " live")
+user_input2 = input("Whats sound do " + user_input + "s make: ")
+user_input3 = input("Where do " + user_input + "s live:")
+user_input4 = input("Why do you like " + user_input + "s: ")
+user_input5 = input("What would you do if you had a " + user_input +":" )
+print(" Your favorite animal is a " + user_input + " and it makes an " + user_input2 + " sound. They live in " + user_input3 + " and you like them because " + user_input4 + ". If you had a " + user_input + " you would " + user_input5 + ".")
