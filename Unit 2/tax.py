@@ -1,5 +1,6 @@
-def calulate_tax(item, price, rate):
-   print(item)
-   print(int( price + rate))
+def calulate_tax(item,price,rate):
+   print("Tax\n" + item +":")
+   print(int( price * rate))
+   
 
-   calulate_tax("water", "1", "6.875")
+calulate_tax("Pack of gum", 5, 0.06875)
