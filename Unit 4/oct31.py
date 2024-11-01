@@ -21,5 +21,3 @@ print(Best_Minecraft_Weapon)
 Best_Minecraft_Weapon.append("Bow")
 print(Best_Minecraft_Weapon)
 
-
-Why_I_Hate_SNOW = 
