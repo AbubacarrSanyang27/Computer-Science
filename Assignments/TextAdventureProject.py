@@ -97,7 +97,7 @@ def Fix_Power():            #go fix power
    
     elif Go_F1 == "no":
         print("You walk back to the sceince room and tell " + friend_2 + " the event of you trip, you decide to go and see " + friend_1 + " with " + friend_2 + "\n")
-        SciRoom()
+        find_F1()
     else:
         print(" Hint: try typing the word in the parenthesess\n")
         Fix_Power()
